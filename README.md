@@ -1,6 +1,6 @@
 # Santander-Excel-IA
 📈 Projeto 01 – Projeção de Aportes para Investimentos
-Este projeto simula o crescimento de um investimento ao longo do tempo com aportes mensais constantes e uma taxa fixa de juros compostos. É o primeiro exercício prático do bootcamp de Excel e Análise de Dados.
+Este projeto simula o crescimento de um investimento ao longo do tempo com aportes mensais constantes e uma taxa fixa de juros compostos. É o primeiro exercício prático do bootcamp do Santander-Excel com Inteligência Artificial.
 
 🎯 Objetivo
 Demonstrar como o capital investido se acumula ao longo dos anos considerando:
